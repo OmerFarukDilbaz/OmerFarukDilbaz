@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/9JJtjLliEF5N68yf3e/giphy.webp" />
 
 
-- 🌱 I’m currently learning **Machine and Deep Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **omerfarukdilbaz@gmail.com**
 
